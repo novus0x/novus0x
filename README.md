@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm **Novus0x** 👨‍💻🔐
 
-<!--
-**novus0x/novus0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious mind, navigating through the intricacies of **cybersecurity** and **software development**. Currently involved in **academic projects**. Focused on exploring new territories, one line of code at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔐 Exploring cybersecurity & C/C++ 
+- 🌌 Dreaming in code, living in terminal 
+
+---
+
+## 🎓 Education
+
+- **Currently studying** at the **Pontifical Catholic University** (PUCP).  
+- Engaged in the study of **cybersecurity** and **software development**.
+
+---
+
+## 🔧 Skills & Tools
+
+Exploring a variety of technologies and tools:
+
+- **Languages**: Python, C, C++, JavaScript, Dart
+- **Web Frameworks**: Django, FastAPI, React
+- **Mobile Development**: Flutter
+- **Databases**: MongoDB, MySQL
+- **Security Tools**: Kali Linux, Metasploit, Wireshark, Burp Suite
+- **Web Development**: HTML, CSS, JavaScript, Node.js
+
+---
+
+## 🚀 Current Focus
+
+*TBD*  
+(Under development or exploring new areas)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=novus0x&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
+## ⚡ Current Exploration
+
+- Investigating **ethical hacking**, **network security**, and **reverse engineering** in parallel with my academic work.
+
+---
+
+## 📜 License 🔏
+
+All repositories available under the **MIT License**, unless stated otherwise.
