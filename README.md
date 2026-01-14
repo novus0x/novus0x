@@ -13,7 +13,6 @@ A curious mind, navigating through the intricacies of **cybersecurity** and **so
 
 ## 🎓 Education
 
-- **Currently studying** at the **Pontifical Catholic University** (PUCP).  
 - Engaged in the study of **cybersecurity** and **software development**.
 
 ---
